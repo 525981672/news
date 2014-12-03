@@ -34,7 +34,6 @@ layout: default
 
 <div class="page-pagination">
     <ul class="pagination">
-        <li><span>页面导航:</span></li>
     {% assign page_begin = paginator.page | minus: 5 %}
     {% assign page_end = paginator.page | plus: 5 %}
     {% if page_begin < 1 %}
