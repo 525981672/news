@@ -6,8 +6,8 @@ layout: default
 <a href="/"><<返回主页</a>
 </div>
 <div class="page-content">
-    <div class="post-heading">
-        {{ page.title }}
+    <div class="post-heading text-center">
+        <h1>{{ page.title }}</h1>
     </div>
     <div class="post-meta">
         <span>
@@ -32,18 +32,19 @@ layout: default
     <div class="post-entry">
         {{ content }}
     </div>
-</div>
-<div class="backto-top">
-    <a href="#h">返回页首</a>
-</div>
-<div class="post-blank post-pager">
-    <ul class="pager">
-        {% if page.previous %}
-        <li class="previous"><a href="{{ page.previous.url }}">&larr; 上一篇</a></li>
-        {% endif %}
-        {% if page.next %}
-        <li class="next"><a href="{{ page.next.url }}">下一篇 &rarr;</a></li>
-        {% endif %}
-    </ul>
-</div>
+    <div class="backto-top text-center">
+        <a href="#h">返回页首</a>
+    </div>
+    <div class="post-blank post-pager">
+        <ul class="pager">
+            {% if page.previous %}
+            <li class="previous"><a href="{{ page.previous.url }}">&larr; 上一篇</a></li>
+            {% endif %}
+            {% if page.next %}
+            <li class="next"><a href="{{ page.next.url }}">下一篇 &rarr;</a></li>
+            {% endif %}
+        </ul>
+    </div>   
+</div> 
+    
 

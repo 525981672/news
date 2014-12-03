@@ -1,5 +1,5 @@
-.page-container div{
-	margin:10px 10% 10px 10%;
+/*default.html*/
+.container div{
 	background-color: #dddddd;
 	border-radius: 8px;
 	border-style: solid;
@@ -7,11 +7,15 @@
 	border-color: #dddddd;
 	font-family: "微软雅黑"
 }
-.page-container img{
-	width: 100%;
-	height: 100%；
+.container img{
+	width: 75%;
+	height: 75%;
+	display: block;
+	margin:0 auto;
 }
-div.page-footer{
+div.footer{
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
 	margin-left: 10%;
 	margin-top: 10px;
 	margin-right: 10%;
@@ -19,8 +23,15 @@ div.page-footer{
     text-align: center;
 }
 
+/*post.html*/
+div.post-entry{
+	margin-left: 10%;
+	margin-right: 10%;
+}
 
+/*index.html*/
 .page-content div{
+	margin:20px 10%;
     border-style: solid;
     border-width: 1px;
     border-color: #dddddd;
@@ -31,11 +42,7 @@ div.post-heading{
 div.post-meta{
 	float: right;
 }
-div.post-footer{
-	border-color: #FFFFFF;
-	border-style: solid;
-	border-width: 1px;
-}
+
 div.page-pagination{
 	text-align: center;
 }
@@ -44,6 +51,16 @@ div.back {
 	margin-left: 10%;
 }
 
-div.backto-top{
-	text-align: center;
+.hr0{
+	margin-right: 10%;
+	margin-left: 10%;
+}
+
+.hr1{ 
+	height:3px;
+	border:none;
+	border-top:3px double #FE3B30;
+	clear:both;
+	margin-right: 5%;
+	margin-left: 5%;
 }
