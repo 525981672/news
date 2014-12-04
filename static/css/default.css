@@ -1,4 +1,8 @@
 /*default.html*/
+
+h1.head{
+	font-size: 350% !important;
+}
 .container div{
 	background-color: #dddddd;
 	border-radius: 8px;
@@ -21,6 +25,9 @@ div.footer{
 	margin-right: 10%;
     margin-bottom: 10px;
     text-align: center;
+}
+.navbar-brand{
+	padding-top: 4.5px !important;
 }
 
 /*post.html*/

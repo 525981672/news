@@ -5,7 +5,7 @@ date:   2014-11-22
 categories: 微软亚洲研究院
 tag: 实习
 ---
-<br/><br/><br/>
+<br/><br/><br/><br/>
 ###微软亚洲研究院近期实习岗位发布啦！
 此次一共有十个组招收实习生，那么多岗位总有一个适合你！收好不送哦！
 ![实习岗位](/static/img/MSRA_internship_release.jpg)

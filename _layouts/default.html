@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.title }}</title>
+    <link rel="shortcut icon" href="/static/img/favicon.ico" type="image/x-icon" />
     <link href="/static/css/default.css" rel="stylesheet" media="all" type="text/css">
     <link href="http://libs.baidu.com/bootstrap/3.2.0/css/bootstrap.min.css"  media="all" rel="stylesheet">
 	<script src="http://cdn.bootcss.com/foundation/5.2.1/js/vendor/modernizr.min.js"></script>
@@ -19,7 +20,7 @@
 			<span class="icon-bar"></span>
 		</button>
 		<a class="navbar-brand" href="http://nkumstc.cn" >
-			<img class="img-responsive center-block " src="/static/img/logo_news_50x20.png" title="南微软NKUMSTC" alt="南开大学微软技术俱乐部"></a>
+			<img class="img-responsive center-block " src="http://nkumstc.cn/static/img/logo_t_50x40.png" title="南微软NKUMSTC" alt="南开大学微软技术俱乐部"></a>
 		</div>
 		<div class="collapse navbar-collapse" id="navbar-collapse">
 			<ul class="nav navbar-nav">
@@ -53,9 +54,13 @@
 	</h1>
     <div class="container">
         <div class="jumbotron text-center">
-            <h1>南开大学微软俱乐部新闻</h1>
+            <h1 class="head">
+            	南开大学微软俱乐部新闻
+            </h1>
+        	</p>
             <p class="lead">
-             NKUMSTC news
+            	 NKUMSTC news
+         	</p>
         </div> 
     	<div class="page-article">
       		  {{ content }}
