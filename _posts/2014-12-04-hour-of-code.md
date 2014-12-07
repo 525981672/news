@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "编程一小时"
-date:   2014-12-04
+title: 编程一小时
+date: 2014-12-04
 categories: 编程一小时
 tag: 活动
 ---

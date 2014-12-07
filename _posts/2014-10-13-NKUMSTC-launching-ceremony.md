@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "南开大学微软俱乐部启动仪式"
-date:   2014-10-13
+title: 南开大学微软俱乐部启动仪式
+date: 2014-10-13
 categories: 俱乐部活动
 tag: 启动仪式
 ---

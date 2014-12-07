@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "宣传部内部培训"
-date:   2014-10-22
+title: 宣传部内部培训
+date: 2014-10-22
 categories: 宣传部活动
 tag: 培训
 ---

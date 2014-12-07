@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "微软亚洲研究院实习岗位发布！"
-date:   2014-11-22
+title: 微软亚洲研究院实习岗位发布!
+date: 2014-11-22
 categories: 微软亚洲研究院
 tag: 实习
 ---
