@@ -1,11 +1,11 @@
 ---
 layout: post
 title: 云印南开公测版开放注册
-date: 2014-12-04
+date: 2015-01-07
 categories: 项目
 tag: 云印南开 云打印
 ---
-
+<br/><br/><br/><br/>
 云印南开公测版已2015年1月1日正式上线，但是由于教育在线故障，新用户无法完成注册。
 现在，我们的用URP验证服务器已经开始工作了，新用户可以注册了，大家赶紧注册吧！！！[print.nkumstc.cn](http://print.nkumstc.cn/)
 ![云打印海报](http://nkuprint.sinaapp.com/Public/images/map.jpg)
